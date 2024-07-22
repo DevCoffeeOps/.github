@@ -9,4 +9,5 @@ DevCoffeeOps is not affiliated with any other site nor profile.
 2. Partner with other orgs.
 
 ## Opportunities
-1. Determine why downloading and go-generating github.com/go-openapi/jsonreference takes so long & if this can be eliminated during apptainer install
+1. (compute.def build) Reduce, eliminate, or ignore long delay during download and go-generate of github.com/go-openapi/jsonreference
+2. 
