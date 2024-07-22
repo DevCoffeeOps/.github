@@ -9,5 +9,5 @@ DevCoffeeOps is not affiliated with any other site nor profile.
 2. Partner with other orgs.
 
 ## Opportunities
-1. (compute.def build) Reduce, eliminate, or ignore long delay during download and go-generate of github.com/go-openapi/jsonreference
+1. (compute.def) Reduce time to install apptainer
 2. 
