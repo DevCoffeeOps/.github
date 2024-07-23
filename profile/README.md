@@ -5,5 +5,5 @@ DevCoffeeOps is not affiliated with any other site nor profile.
 
 ## DevCoffeeOps goals
 
-1. Practice [DevOps](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404) and [SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/) for professional development, share demos.
+1. Practice Application development, [DevOps](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404) and [SRE](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/) for professional development, share demos.
 2. Partner with other orgs or non-profits / maybe offer IT consulting
