@@ -1,7 +1,9 @@
 ## DevCoffeeOps Organization
 
-This is an organization of DevOps practitioners who enjoy building and networking professionally.
+This started out as idea for an organization of DevOps practitioners who enjoy building and networking professionally.
 DevCoffeeOps is not affiliated with any other site nor profile.
+
+I don't drink (much) coffee these days so I'm not sure if the org name should change ha.
 
 ## DevCoffeeOps goals
 
